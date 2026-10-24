@@ -1,0 +1,9 @@
+path: ./yolo_train_data
+
+train: images/train
+val: images/val
+
+names:
+  0: balconies
+  1: doors
+  2: windows
