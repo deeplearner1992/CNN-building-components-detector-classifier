@@ -14,8 +14,6 @@ if not cap.isOpened():
     print("Error: Could not open camera.")
     exit()
 
-last_trigger_time = time.time()
-
 while True:
     ret, frame = cap.read()
     if not ret:
