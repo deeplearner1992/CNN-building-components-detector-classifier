@@ -10,3 +10,4 @@ Tech stack: PyTorch, OpenCV, YOLO, Python
 1. Set up a virtual environment for Python
 2. pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu132
 3. pip install -r requirements.txt
+4. Run "pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu132" again if step 3 fails in installing PyTorch
